@@ -6,7 +6,7 @@
 
 **Portfolio open source di progetti Security, automazione SOC e integrazioni cloud.**
 
-Creato da **Federico Parisi** — SOC Analyst con background da sviluppatore, specializzato in detection, automazione e AI-assisted workflows.
+Creato da **Federico Parisi** SOC Analyst con background da sviluppatore, specializzato in detection, automazione e AI-assisted workflows.
 
 ---
 
