@@ -26,7 +26,7 @@ Riducendo triage manuale, rumore alert e tempi di risposta nel SOC.
 |------------|-------|-------------|
 | [Decoder_SIEMjoson](https://github.com/DarkGreen-projects/Decoder_SIEMjoson) | 🟢 Attivo | Decoder/parsing eventi SIEM in formato JSON strutturato |
 | [darkgreenos](https://github.com/DarkGreen-projects/darkgreenos) | 🟡 In sviluppo | Progetto sistemi / low-level |
-| [soc-automation-hub](https://github.com/DarkGreen-projects/soc-automation-hub) | 🟢 Attivo | Hub SOC: [CSV VT Scanner demo](https://darkgreen-projects.github.io/soc-automation-hub/) + tool desktop |
+| [soc-automation-hub](https://github.com/DarkGreen-projects/soc-automation-hub) | 🟢 Attivo | Hub SOC: [demo web](https://darkgreen-projects.github.io/soc-automation-hub/) — CSV VT Scanner + Alert Rule Planner (coverage MITRE) · [desktop VT](https://github.com/DarkGreen-projects/soc-automation-hub/releases) |
 | splunk-detections | 🔜 Prossimo | Regole detection SPL + dati sintetici |
 | power-platform-soc | 🔜 Prossimo | Template Power Automate / Logic Apps per SOC |
 
