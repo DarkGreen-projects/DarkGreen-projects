@@ -48,4 +48,4 @@ Qui trovi solo codice open source, template e versioni **sanitizzate/demo**.
 ## Contatti
 
 - GitHub: [@darkgreen](https://github.com/darkgreen)
-- LinkedIn: [https://www.linkedin.com/in/federico-parisi-0491a4212/]
+- LinkedIn: https://www.linkedin.com/in/federico-parisi-0491a4212/
