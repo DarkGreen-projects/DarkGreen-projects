@@ -24,6 +24,7 @@ Riducendo triage manuale, rumore alert e tempi di risposta nel SOC.
 
 | Repository | Stato | Descrizione |
 | --- | --- | --- |
+| [darkgreen-siem](https://github.com/DarkGreen-projects/darkgreen-siem) | 🟢 Attivo | Demo SIEM multi-fonte — ingest, normalize, search, detect (Docker Compose) |
 | [soc-automation-hub](https://github.com/DarkGreen-projects/soc-automation-hub) | 🟢 Attivo | [Demo web](https://darkgreen-projects.github.io/soc-automation-hub/) — 5 moduli SOC · [desktop VT](https://github.com/DarkGreen-projects/soc-automation-hub/releases) |
 | [Decoder_SIEMjoson](https://github.com/DarkGreen-projects/Decoder_SIEMjoson) | 🟢 Attivo | Python CLI/GUI — parse SIEM multi-vendor + OSINT |
 | [darkgreenos](https://github.com/DarkGreen-projects/darkgreenos) | 🟡 In sviluppo | OS i386 — RMGR, GUI bare-metal, DarkMind |
