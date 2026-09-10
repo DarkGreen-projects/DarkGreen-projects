@@ -24,20 +24,21 @@ Riducendo triage manuale, rumore alert e tempi di risposta nel SOC.
 
 | Repository | Stato | Descrizione |
 | --- | --- | --- |
-| [darkgreen-siem](https://github.com/DarkGreen-projects/darkgreen-siem) | 🟢 Attivo | Demo SIEM multi-fonte — ingest, normalize, search, detect (Docker Compose) |
-| [soc-automation-hub](https://github.com/DarkGreen-projects/soc-automation-hub) | 🟢 Attivo | [Demo web](https://darkgreen-projects.github.io/soc-automation-hub/) — 5 moduli SOC · [desktop VT](https://github.com/DarkGreen-projects/soc-automation-hub/releases) |
-| [Decoder_SIEMjoson](https://github.com/DarkGreen-projects/Decoder_SIEMjoson) | 🟢 Attivo | Python CLI/GUI — parse SIEM multi-vendor + OSINT |
-| [darkgreenos](https://github.com/DarkGreen-projects/darkgreenos) | 🟡 In sviluppo | OS i386 — RMGR, GUI bare-metal, DarkMind |
-| splunk-detections | 🔜 Prossimo | Regole detection SPL + dati sintetici |
-| power-platform-soc | 🔜 Prossimo | Template Power Automate / Logic Apps per SOC |
+| [soc-n8n-splunk-lab](https://github.com/DarkGreen-projects/soc-n8n-splunk-lab) | Attivo | Lab SOC end-to-end — Splunk Free + n8n (SOAR) + Ollama, triage e TI |
+| [darkgreen-siem](https://github.com/DarkGreen-projects/darkgreen-siem) | Attivo | Demo SIEM multi-fonte — ingest, normalize, search, detect (Docker Compose) |
+| [soc-automation-hub](https://github.com/DarkGreen-projects/soc-automation-hub) | Attivo | [Demo web](https://darkgreen-projects.github.io/soc-automation-hub/) — 5 moduli SOC · [desktop VT](https://github.com/DarkGreen-projects/soc-automation-hub/releases) |
+| [Decoder_SIEMjoson](https://github.com/DarkGreen-projects/Decoder_SIEMjoson) | Attivo | Python CLI/GUI — parse SIEM multi-vendor + OSINT |
+| [darkgreenos](https://github.com/DarkGreen-projects/darkgreenos) | In sviluppo | OS i386 — RMGR, GUI bare-metal, DarkMind |
+| splunk-detections | Prossimo | Regole detection SPL + dati sintetici |
+| power-platform-soc | Prossimo | Template Power Automate / Logic Apps per SOC |
 
-Dettaglio moduli hub: CSV VT, Alert Rule Planner (MITRE), SIEM Decoder, CSV Pivot, Bulk IOC.
+Dettaglio moduli hub: CSV VT, Alert Rule Planner (MITRE), SIEM Decoder, CSV Pivot, Bulk IOC. Lab SOAR: [soc-n8n-splunk-lab](https://github.com/DarkGreen-projects/soc-n8n-splunk-lab).
 
 ---
 
 ## Stack
 
-`Python` · `Power Automate` · `Logic Apps` · `SIEM` · `Splunk` · `MISP` · `Microsoft Graph` · `NIST CSF` · `LLM / AI Triage`
+`Python` · `n8n` · `Ollama` · `Power Automate` · `Logic Apps` · `SIEM` · `Splunk` · `MISP` · `Microsoft Graph` · `NIST CSF` · `LLM / AI Triage`
 
 ---
 
